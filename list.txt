@@ -1,0 +1,563 @@
+~~Hidden DisplayID's~~
+
+Hey Guys. Its a Long Time Since i Realeased Something.
+This Time i Got a Huge List of Hidden DisplayID's.
+This Includes Full Gears To Normal Weapon's.
+
+~Gears~
+
+Darnassus Sentinel
+
+Head - 8380
+Shoulders - 5678
+Shirt - 6029
+Legs - 6030
+Boots - 6031
+Gloves - 8305
+
+Exodar Peacekeeper
+
+Shoulders - 37027
+Chest - 37028
+Belt - 36813
+Legs - 37026
+Gloves - 37029
+
+Ironforge Guard
+
+Head - 15358
+Shoulders - 10493
+Shirt - 10440
+Chest - 12945
+Belt - 10442
+Legs - 10443
+Boots - 10444
+Gloves - 12949
+
+(Thunder Bluff) Honor Guard
+
+Shoulders - 8252
+Shirt - 10084
+Belt - 6182
+Legs - 6183
+Boots - 10085
+Bracers - 8217
+
+Thrall
+<Warchief>
+
+Shoulders - 25551
+Shirt - 25521
+Belt - 25522
+Legs - 25523
+Boots - 25524
+Gloves - 25525
+
+Alandien
+<Illidari Demon Hunter>
+
+Head - 41764
+Shoudlers - 43840
+Shirt - 43788
+Chest - 43839
+Belt - 40511
+Legs - 41745
+Boots - 41751
+Bracers - 41824
+Gloves - 41825
+
+Netharel
+<Illidari Demon Hunter>
+
+Head - 41765
+Chest - 43788
+Belt - 41746
+Legs - 41745
+Boots - 41751
+Bracers - 25156
+
+Varedis
+<Illidari Demon Hunter>
+
+Head - 41765
+Chest - 43786
+Belt - 41746
+Legs - 41745
+Boots - 41751
+Bracers - 25156
+
+Blizzard Worker (Not GM Outfit)
+
+Shirt - 38203
+Chest - 11438
+Legs - 11308
+Boots - 38204
+
+
+Death Knight Aplha Blood
+
+Head - 52302
+Shoulders - 49021
+Chest - 49022
+Belt - 49023
+Legs - 49024
+Boots - 49025
+Bracers - 56518
+Gloves - 49026
+
+Death Knight Aplha Frost
+
+Helmet - 52500
+Shoulders - 49876
+Chest - 56787
+Belt - 51704
+Legs - 52996
+Boots - 50507
+Bracers - 50510
+Gloves - 53008
+
+Death Knight Alpha Unholy
+
+Helmet - 50615
+Shoulders - 51577
+Chest - 52450
+Belt - 51497
+Legs - 51532
+Boots - 53629
+Bracers - 51710
+Gloves - 51712
+
+Death Knight Captain
+
+Helmet - 52969
+Shoulder - 51119
+Chest - 51120
+Belt - 51791
+Legs - 51122
+Boots - 51792
+Bracers - 55384
+Gloves - 51428
+
+7TH Legion Cavalier
+
+Helmet - 49673
+Shoulders - 42052
+Chest - 49669
+Belt - 42053
+Legs - 49670
+Boots - 49671
+Gloves - 49672
+Tabard - 47251
+
+7TH Legion Cleric
+
+Shoulders - 44359
+Chest - 41408
+Belt - 41661
+Legs - 41518
+Boots - 50212
+Gloves - 41662
+Tabard - 47251
+
+7TH Legion Elite
+
+Helmet - 49674
+Shoulder - 49675
+Chest - 4334
+Belt - 4547
+Legs - 4333
+Boots - 49554
+Gloves - 48570
+Tabard - 47251
+
+7TH Legion Infantryman (Same as 7TH Legion Elite)
+
+Helmet - 49674
+Shoulder - 49675
+Chest - 4334
+Belt - 4547
+Legs - 4333
+Boots - 49554
+Gloves - 48570
+Tabard - 47251
+
+7TH Legion Rifleman (Same As Infantryman and Elite)
+
+Helmet - 49674
+Shoulder - 49675
+Chest - 4334
+Belt - 4547
+Legs - 4333
+Boots - 49554
+Gloves - 48570
+Tabard - 47251
+
+7TH Legion Sentinel
+
+Helmet - 49679
+Shoulder - 47956
+Chest - 49678
+Belt - 47958
+Legs - 47959
+Boots - 47960
+Gloves - 47961
+Cape - 48558
+Tabard - 47251
+
+7TH Legion Sentinel 2
+
+Helmet - 49679
+Shoulder - 47956
+Chest - 49678
+Belt - 47958
+Legs - 47959
+Boots - 47960
+Gloves - 47961
+Cape - 48558
+Tabard - 47251
+
+7TH Legion Wyrm Hunter
+
+Helmet - 49167
+Chest - 50211
+Belt - 31122
+Legs - 9242
+Boots - 27224
+Gloves - 26753
+Tabard - 47251
+
+Stormwind Guard
+
+Helmet - 14964
+Shoulders - 7541
+Shirt - 7223
+Belt - 7224
+Legs - 7225
+Boots - 7255
+Gloves - 7698
+Tabard - 6255
+
+Orgrimmar Guard
+
+Shoulders - 12525
+Shirt - 9194
+Belt - 9903
+Legs - 9195
+Boots - 9196
+Gloves - 9197
+
+Haloween Pirate Costume
+
+Head - 15491
+Shirt - 10323
+Belt - 7932
+Legs - 5870
+Feet - 13645
+Hands - 5268
+
+Onslaught Griphon Rider
+
+Head - 52549
+Shoulders - 51126
+Chest - 52550
+Belt - 52551
+Legs - 51127
+Boots - 52552
+Gloves - 52553
+Cape - 52554
+Tabard - 23951
+
+Onslaught Footman
+
+Helmet - 14957
+Shoulders - 14880
+Shirt - 14881
+Chest - 14882
+Belt - 13378
+Legs - 5320
+Boots - 5620
+Gloves - 14887
+Tabard - 15817
+
+Onslaught Knight
+
+Helmet - 24045
+Shoulder - 21574
+Shirt - 14881
+Chest - 49630
+Belt - 13378
+Legs - 21197
+Boots - 43282
+Gloves - 21716
+Tabard - 15817
+
+Highlord Darion Morgraine
+
+Helmet - 50891
+Shoulder - 50892
+Chest - 50893
+Belt - 50894
+Legs - 50895
+Boots - 51748
+Gloves - 50897
+Cape - 49194
+Tabard - 54077
+
+Father Gustav
+
+Shoulder - 53507
+Chest - 53508
+Belt - 53509
+Legs - 53510
+Boots - 53511
+Gloves - 53512
+Tabard - 53941
+
+Grand Magus Telestra
+
+Helmet - 49321
+Shoulders - 49322
+Chest - 49182
+Belt - 49183
+Legs - 49184
+Boots - 49185
+Gloves - 49323
+Cape - 48563
+
+Grand Aphotecary Putress
+
+Helmet - 50620
+Shoulders - 50621
+Chest - 50622
+Belt - 50623
+Legs - 50624
+Boots - 50777
+Gloves - 50626
+
+Tyrande Whisperwind
+
+Helmet - 24525
+Shirt - 25537
+Legs - 25538
+Gloves - 24922
+
+Sylvanas Windrunner (Normal Night Elf Form / Non Undead)
+
+Helmet - 46141
+Shoulders - 14669
+Shirt - 46139
+Chest - 9131
+Belt - 10433
+Legs - 9132
+Boots - 5354
+Bracers - 36854
+Gloves - 46140
+Cape - 15040
+
+Cairne Bloodhoof
+
+Helmet - 12875
+Shoulders - 22181
+Shirt - 22182
+Chest - 10883
+Belt - 7662
+Legs - 12526
+Boots - 10089
+Bracers - 10090
+
+Arathi Farmer
+
+Shirt - 32232
+Chest - 29047
+Belt - 8347
+Legs - 25296
+Boots - 8541
+Gloves - 9778
+
+Blacksmith w/ Tatoo
+
+Shirt - 47076
+Belt - 38012
+Legs - 8265
+Boots - 3051
+
+Defias Blackguard
+
+Head - 8266
+Shirt - 7510
+Belt - 7511
+Legs - 3201
+Boots - 7512
+Gloves - 7513
+
+Molthor
+
+Shoulders - 31100
+Shirt - 24348
+Chest - 32039
+Belt - 22362
+Legs - 24435
+Boots - 10984
+Bracers - 17465
+Gloves - 22364
+
+Bandages
+
+Shirt - 17324
+Legs - 9032
+Boots - 17325
+
+~Items~
+
+Death Polearm - 48076
+Orange Thunderfury (Bronze) - 29992
+Black Thunderfury (Ligh Effects) - 26451
+Black Thunderfury (Without Light Effects) - 26452
+Frostmourne - 46609
+Green Hellreaver - 44986
+Weird Colored Scythe - 48872
+Weird Colored Scythe - 48872
+Black Ice White/Light Blue Version - 50889
+Rainbow Axe - 39291
+Neon Netherbane/Breeching Comet - 45072
+Frost Blight Axe - 55921
+Unholy Blight Axe - 55914
+Blood Blight Axe - 55916 / 55919 / 55920
+Deadly/Hatefull/Savage Gladiator Axe - 56202
+Hellfire Gun - 38834 / 38835 / 38836
+Wolf Gun (Silver) - 54976
+Wolf Gun (Bronze) - 55951
+Wolf Gun (Grey) - 55952
+Wolf Gun (Gold & Silver) - 57235
+Frying Pan - 28864
+Savage/Deadly/Hatefull Gladiator Mace (Green) - 56239
+Thunder Bluff Mace - 18572
+Weird Colored Ahn'Qiraj Mace - 33739
+Weird Colored Ahn'Qiraj Mace - 34435g
+Weird Colored Ahn'Qiraj Mace - 34883
+Brutal Gladiator Bonegrinder (Small) - 46955
+Dragonstrike (Steel) - 52644
+Ice Mace - 53063
+Utgrade Keep Mace (Grey) - 55776
+Utgrade Keep Mace (Green) - 55775
+Utgrade Keep Mace (Demonic) - 55778
+Engineer Mace - 30393
+Deadly/Savage/Hateful Gladiator Mace Demonic - 56952
+The Nexus Mace - 52098
+Ulduar 1H Sword - 52099
+Utgrade Keep Mace - 55574
+The Nexus Axe - 56116
+Utgrade Keep Axe - 52671
+Burning Broom - 37524
+Utgrade Keep Crossbow - 49297
+Night Elf Sentinel Glave - 4289
+Black Temple Akama Axe - 43903
+Black Temple Maiev Blade/Fist Weapon - 44850
+Red DK Quest Sword - 55276
+Green DK Quest Sword - 53484
+Purple DK Quest Sword - 52968
+Notrhrend 2H Sword - 46410
+Gladiator's Slicer Big Version - 45118
+Crystal Blade - 39219
+Hailstorm (Purple) - 56651
+Hailstorm (Red) - 54758
+Life And Death (Purple) - 51677
+Drak'Tharon Dagger (Brown) - 55939
+Drak'Tharon Dagger (Blue) - 55938
+Drak'Tharon Dagger (Red) - 55937
+Crusader Shield (White) - 47908
+Ulduar Shield - 54099
+Wowhead: You'll be back. Gun - 39107
+DemonStalker And Demon Combo - 40627
+Red Cyclone Shoulders - 44755
+Golden Lightbringer Shoulders - 44814
+Black Lightbringer Shoulders - 44816
+Green Ten Storms Shoulders - 45338
+Red Pauldrons of Wrath - 45791
+Green Destroyer Shoulderblades - 45969
+Gladiator Combo Hunter + Warrior - 46261
+Weird Dreadnaught Shoulders - 35066
+Dreadnaught Shoulder (Left) - 38161
+White Skyshatterer Shoulders - 54304
+Red DK Quest Shoulders - 54983
+Brutal Gladiator Paladin White - 48293
+Dreadnaught + Crystalforge Orange Combo - 47797
+Red Skyshatterer - 46889
+Hunter T8 Shoulders - 51465
+Basic Bone Bow - 31853
+Amani Bow - 32497
+Amani Bow 2 (Brighter) - 32519
+Accursed Bow of the Elite (White) - 35254
+Accursed Bow of the Elite (Grey) - 35461
+Emerald Dream Bow - 39229
+Basic Pheonix Bow (Yellow) - 40907
+Demon Bow - 42094
+Invisible Grip Demon Bow - 43380
+Basic Pheonix Bow (Grey) - 43382
+Spider Bow - 43833
+Crystal Bow - 44973
+Basic Pheonix Bow (Grey) - 43382
+Spider Bow - 43833
+Crystal Bow - 44973
+Blue Bow of The Betrayer - 50448
+Elite Bone Bow - 51510
+Purple Quel'Thalas Bow - 54436
+Troll Spear - 40382
+Blood/High Elf Spear - 40609
+Sunfury Spear - 45317
+Glacier Spear - 50503
+Northrend Spear - 53009
+Lamp - 15555
+Screw - 1610
+Baguette - 1943
+Fish - 24699
+Rose - 2725
+Rose's - 2731
+Lamp (Square) - 2646
+Wine Glass - 2751
+Rose (Black) - 3680
+Stick - 1165
+Torch - 12737
+Pitchfork - 13515
+Normal Broom - 3575
+Harpoon - 3581
+Flying Broom - 46542
+Mannoroth's Blade - 39393
+Panda Warglaive - 44687g
+Emerald Dream Claw - 41397
+Shadow Claws - 45543
+Zul'Jin Blade - 47174
+White Brutal Gladiator Ripper - 49145
+Warknife of Azzinoth - 36154
+Rune Dagger - 44842
+Green Devestation - 43354
+Frost Arcanite Ripper - 43314
+Shotgun - 41430
+Darion Mograine Cloak - 49194
+Huge Bronze Dagger - 19553
+Quantum Blade (Small 1H Version) - 40889
+Quantum Blade (Small 1H Version 2) - 44955
+Golden Vengeful Gladiator Slicer - 48075
+Golden Dragonscale-Encrusted Longblade - 48401
+Green Martin Thunder - 52609
+Purple Vengeful Gladiator Slicer - 54098
+Light Blue (Dont remember Name) - 56142
+Blue Titan Blade - 57258
+Tree Katana - 16537
+Swamp Blade - 33093
+Demon Greatblade - 36251
+Demon Katana - 36252
+Emerald Dream Greatblade - 40851
+Blue Brutal Gladiator Sword - 47976
+Dual Martin Thunder Pink x Yellow - 52590
+Dual Martin Thunder Blue x Yellow - 52591
+Dual Martin Thunder Yellow x White - 52592
+Dual Martin Thunder Yellow x Lightning - 52595
+Dual Martin Thunder Pink x Blue - 52599
+Ulduar Squid Blade - 55972
+Ulduar Gun - 53113
+Vrykul Thorwing Harpoon - 53530
+Corrupted Pheonix Claw - 45688
+Brown Wraith Strike - 53040
+Black Wraith Strike - 56661
+Box Mace - 52096
