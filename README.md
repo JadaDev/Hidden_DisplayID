@@ -4,9 +4,9 @@
 >
 >~Sasoritail - Writing List And Finding ID's.
 >
-#~WoW Model Viewer - Making It Possible To Find Hidden Displayid's.
+>~WoW Model Viewer - Making It Possible To Find Hidden Displayid's.
 >
-#~MyWarCraftStudio - Making It Possible To Find Hidden Displayid's.
+>~MyWarCraftStudio - Making It Possible To Find Hidden Displayid's.
 >
 >~Snag-It 9 - Taking Screen Shots In Full Quality
 >
